@@ -1,0 +1,2 @@
+支持git特殊字符 https://github.com/ryanoasis/nerd-fonts
+命令行字体 https://github.com/powerline/fonts
